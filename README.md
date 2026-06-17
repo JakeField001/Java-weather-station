@@ -20,7 +20,7 @@ This project was developed to practise object-oriented programming, API integrat
 
 ## Screenshots
 
-![Main Window](screenshots/Weather App Screen Shot.png)
+![Main Window](screenshots/WeatherApp-SS.png)
 
 ## How to Run
 
